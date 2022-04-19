@@ -1,6 +1,6 @@
 # Site
 title:              Igualdad
-bio:                'En busca de una igualdad real.'
+bio:                'Datos comparativos de género en España, sin interpretación y con fuentes.'
 description:        "Repositorio de recursos sobre igualdad en España. Análisis de datos oficiales para generar un panorama real de la sociedad Española y la igualdad."
 reading_time:       true
 words_per_minute:   200
@@ -38,7 +38,7 @@ disqus_shortname:   datosigualdad
   #ad-slot:
 #bing-verify:
 #email:
-#twitter:            username
+twitter:            username
 #facebook:           username
 #github-url:         username
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
