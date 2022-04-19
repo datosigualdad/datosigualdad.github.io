@@ -40,8 +40,11 @@ de las víctimas mortales, se encontró que la mujer mató con mayor frecuencia 
 nacidos (18,3% vs. 1,3%) y a menores de edad (12,9% vs. 3,5%) (χ2 (8, 871)=115,48; p <0,01).  
 {% endhighlight %}
 
-Pese que la muestra sea desigual en género, ya que se han recogido mayores casos de homicidios de hombres, las perpretadoras del crimen son significativamente las mujeres en menores de edad. El test de signficancia χ2 implica que esto es probable que siga ocurriendo con muestras más grandes, teniendo en cuenta una muestra de años mas amplia.
-Cabe destacar, que no debemos confundir el número total de homicidas con el porcentaje de edad de sus víctimas. Este dato indica únicamente que las victimas de las más frecuentemente menores de edad. Frente a los hombres, que cometerían homicidios de edades más dispares.
+Pese que la muestra sea desigual en género, este análisis en concreto es sobre sus víctimas. Los resultados indican que las mujeres concentran en mayor medida sus asesinatos en menores de edad. El test de signficancia χ2 realizado indica que esto es significativamente probable que siga ocurriendo con muestras más grandes (por ejemplo, atiendiendo a otros años o teniendo en cuenta una muestra de años más amplia).
 
-**Los resultados aportados no hacen referencia a que la mujer haya matado en ese periodo a más menores, sino que es significativamente más habitual que sus victimas sean menores.**
+Es importante destacar que no se debe confundir el número total de homicidas con la probabilidad de edad que tengan sus víctimas. Este resultado indica únicamente que las victimas de las asesinas son mas probables que sean jóvenes (respecto de los hombres). Dicho de otra manera, las victimas de los asesinos están más repartidas en otras franjas de edades.
+
+## Resumen
+
+**Respecto a los hombres, es significativamente más probable que la victima de una asesina sea menor de edad**
 
